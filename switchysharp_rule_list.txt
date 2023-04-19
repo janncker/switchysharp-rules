@@ -155,6 +155,10 @@
 *://*.dropbox.com
 
 *://*.gmail.com
+
+*://*.openai.com/*
+*://*.openai.com
+
 [regexp]
 
 #END
